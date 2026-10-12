@@ -5,7 +5,7 @@
 # 📊 Awesome Marketing Analytics & BI
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Analytics-BI?style=social)](https://github.com/ishandutta2007/Awesome-Marketing-Analytics-BI/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Analytics-BI?style=social)](https://github.com/ishandutta2007/Awesome-Marketing-Analytics-BI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Marketing-Analytics-BI?style=social)](https://github.com/ishandutta2007/Awesome-Marketing-Analytics-BI/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Marketing-Analytics-BI/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -65,9 +65,9 @@ Below is a comprehensive comparison of category-leading hosted SaaS platforms fo
 
 ## 🔓 Open-Source Marketing Analytics & BI Projects
 
-A curated, developer-friendly list of open-source tools powering the modern data stack for marketing analytics. Each repository includes a real-time star badge linked directly to its stargazers page. Sorted descending by **GitHub Stars ⭐**.
+A curated, developer-friendly list of open-source tools powering the modern data stack for marketing analytics. Each repository includes a real-time Stars_Badge linked directly to its stargazers page. Sorted descending by **GitHub_Stars ⭐**.
 
-| Project & Repository 🛠️ | GitHub Stars 🌟 | Primary Stack 💻 | Description & Key Marketing Capabilities 📋 |
+| Project & Repository 🛠️ | GitHub_Stars 🌟 | Primary Stack 💻 | Description & Key Marketing Capabilities 📋 |
 | :--- | :--- | :--- | :--- |
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Go, TypeScript, React | The premier open observability and interactive visualization platform; widely utilized to build real-time campaign performance and ingestion monitoring dashboards. |
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Python, TypeScript, React | Enterprise-grade cloud-native BI platform featuring an intuitive no-code chart builder, high-speed SQL Lab, and support for almost every SQL data warehouse. |
