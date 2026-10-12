@@ -21,6 +21,7 @@
   <a href="#-open-source-marketing-analytics--bi-projects">Open-Source Projects</a> •
   <a href="#-marketing-data-stack-architecture">Architecture</a> •
   <a href="#-how-to-contribute">Contribute</a> •
+  <a href="#-support--sponsorship">Support</a> •
   <a href="#-star-history">Star History</a>
 </p>
 
@@ -132,6 +133,18 @@ Contributions are warmly welcomed! Help make this the most accurate and up-to-da
 - This list is **community-curated** for educational and exploratory purposes. Inclusion does not imply official endorsement.
 - All brand names, logos, and trademarks belong to their respective owners.
 - When capturing user data, ensure strict compliance with privacy standards including **GDPR**, **CCPA**, and platform-specific API guidelines.
+
+## 💖 Support & Sponsorship
+
+Thank you so much for using and exploring **Awesome Marketing Analytics & BI**! Maintaining high-quality, up-to-date benchmarks, pricing breakdowns, and open-source directories takes ongoing research and dedication.
+
+If you find this repository valuable, here are a few wonderful ways you can support the project:
+- ⭐️ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** by adding new tools, correcting pricing, or sharing data pipelines.
+- 📢 **Share with peers**, your growth teams, or on social channels (LinkedIn, X, Reddit).
+- ☕ **Buy me a coffee & become a sponsor**: Support independent open-source curation and developer tools via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
 
 ---
 
