@@ -1,6 +1,6 @@
 # Awesome-Marketing-Analytics-BI
 
-# Top Marketing Analytics & BI Tools Ecosystem
+## Top Marketing Analytics & BI Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Marketing Data Integration, Unified Reporting & Business Intelligence*  
